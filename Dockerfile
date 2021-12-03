@@ -1,4 +1,4 @@
-FROM adoptopenjdk:11-jre-hotspot
+FROM openjdk:17-slim
 
 WORKDIR /opt/sandbox-java
 
